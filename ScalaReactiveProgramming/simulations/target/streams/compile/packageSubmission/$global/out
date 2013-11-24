@@ -1,0 +1,15 @@
+[info] Packaging /Users/Danny/Desktop/work/coursera/simulations/target/scala-2.10/progfun-simulations_2.10-1.0.0.jar ...
+[debug] Input file mappings:
+[debug] 	simulations/Circuit.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/simulations/src/main/scala/simulations/Circuit.scala
+[debug] 	simulations/EpidemySimulator.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/simulations/src/main/scala/simulations/EpidemySimulator.scala
+[debug] 	common/package.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/simulations/src/main/scala/common/package.scala
+[debug] 	simulations/gui/Grid.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/simulations/src/main/scala/simulations/gui/Grid.scala
+[debug] 	simulations/gui/EpidemyDisplay.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/simulations/src/main/scala/simulations/gui/EpidemyDisplay.scala
+[debug] 	simulations/Simulator.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/simulations/src/main/scala/simulations/Simulator.scala
+[info] Done packaging.

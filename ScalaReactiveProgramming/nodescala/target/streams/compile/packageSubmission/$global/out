@@ -1,0 +1,11 @@
+[info] Packaging /Users/Danny/Desktop/work/coursera/nodescala/target/scala-2.10/progfun-nodescala_2.10-1.0.0.jar ...
+[debug] Input file mappings:
+[debug] 	common/package.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/nodescala/src/main/scala/common/package.scala
+[debug] 	nodescala/Main.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/nodescala/src/main/scala/nodescala/Main.scala
+[debug] 	nodescala/nodescala.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/nodescala/src/main/scala/nodescala/nodescala.scala
+[debug] 	nodescala/package.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/nodescala/src/main/scala/nodescala/package.scala
+[info] Done packaging.

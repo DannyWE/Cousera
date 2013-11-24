@@ -1,0 +1,6 @@
+[debug] Running Test quickcheck.QuickCheckBinomialHeap : subclass(true, org.scalacheck.Properties) with arguments 
+[debug] Running Test quickcheck.QuickCheckSuite : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 11, Failed 0, Errors 0, Passed 11, Skipped 0
+[debug] Passed tests:
+[debug] 	quickcheck.QuickCheckBinomialHeap
+[debug] 	quickcheck.QuickCheckSuite

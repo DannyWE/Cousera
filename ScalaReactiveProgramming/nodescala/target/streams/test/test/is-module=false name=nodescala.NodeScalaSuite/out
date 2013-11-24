@@ -1,0 +1,6 @@
+[info] NodeScalaSuite:
+[info] - A Future should always be created
+[info] - A Future should never be created
+[info] - CancellationTokenSource should allow stopping the computation
+[info] - Listener should serve the next request as a future
+[info] - Server should serve requests

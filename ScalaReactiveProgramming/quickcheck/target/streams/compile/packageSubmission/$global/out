@@ -1,0 +1,9 @@
+[info] Packaging /Users/Danny/Desktop/work/coursera/quickcheck/target/scala-2.10/progfun-quickcheck_2.10-1.0.0.jar ...
+[debug] Input file mappings:
+[debug] 	common/package.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/quickcheck/src/main/scala/common/package.scala
+[debug] 	quickcheck/Heap.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/quickcheck/src/main/scala/quickcheck/Heap.scala
+[debug] 	quickcheck/QuickCheck.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/quickcheck/src/main/scala/quickcheck/QuickCheck.scala
+[info] Done packaging.

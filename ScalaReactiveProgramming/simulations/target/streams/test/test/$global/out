@@ -1,0 +1,6 @@
+[debug] Running Test simulations.CircuitSuite : subclass(false, org.scalatest.Suite) with arguments 
+[debug] Running Test simulations.EpidemySuite : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 5, Failed 0, Errors 0, Passed 5, Skipped 0
+[debug] Passed tests:
+[debug] 	simulations.CircuitSuite
+[debug] 	simulations.EpidemySuite
