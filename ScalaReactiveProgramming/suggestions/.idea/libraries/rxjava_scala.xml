@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="rxjava-scala">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.netflix.rxjava/rxjava-scala/rxjava-scala-0.14.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.netflix.rxjava/rxjava-scala/rxjava-scala-0.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

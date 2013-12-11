@@ -1,0 +1,6 @@
+[debug] Running Test suggestions.WikipediaApiTest : subclass(false, org.scalatest.Suite) with arguments 
+[debug] Running Test suggestions.SwingApiTest : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 3, Failed 0, Errors 0, Passed 3, Skipped 0
+[debug] Passed tests:
+[debug] 	suggestions.WikipediaApiTest
+[debug] 	suggestions.SwingApiTest

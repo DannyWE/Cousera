@@ -1,0 +1,21 @@
+[info] Packaging /Users/Danny/Desktop/work/coursera/suggestions/target/scala-2.10/progfun-suggestions_2.10-1.0.0.jar ...
+[debug] Input file mappings:
+[debug] 	suggestions/gui/WikipediaSuggest.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/suggestions/src/main/scala/suggestions/gui/WikipediaSuggest.scala
+[debug] 	suggestions/package.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/suggestions/src/main/scala/suggestions/package.scala
+[debug] 	suggestions/observablex/SchedulerEx.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/suggestions/src/main/scala/suggestions/observablex/SchedulerEx.scala
+[debug] 	suggestions/search/Search.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/suggestions/src/main/scala/suggestions/search/Search.scala
+[debug] 	common/package.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/suggestions/src/main/scala/common/package.scala
+[debug] 	suggestions/gui/WikipediaApi.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala
+[debug] 	suggestions/gui/SwingApi.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/suggestions/src/main/scala/suggestions/gui/SwingApi.scala
+[debug] 	suggestions/observablex/ObservableEx.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/suggestions/src/main/scala/suggestions/observablex/ObservableEx.scala
+[debug] 	suggestions/gui/package.scala
+[debug] 	  /Users/Danny/Desktop/work/coursera/suggestions/src/main/scala/suggestions/gui/package.scala
+[info] Done packaging.
