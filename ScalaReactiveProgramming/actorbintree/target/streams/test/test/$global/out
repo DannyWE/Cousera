@@ -1,0 +1,4 @@
+[debug] Running Test actorbintree.BinaryTreeSuite : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 3, Failed 0, Errors 0, Passed 3, Skipped 0
+[debug] Passed tests:
+[debug] 	actorbintree.BinaryTreeSuite

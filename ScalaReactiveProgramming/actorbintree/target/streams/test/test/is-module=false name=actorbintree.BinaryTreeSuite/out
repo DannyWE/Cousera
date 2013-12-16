@@ -1,0 +1,4 @@
+[info] BinaryTreeSuite:
+[info] - proper inserts and lookups
+[info] - instruction example
+[info] - behave identically to built-in set (includes GC)
