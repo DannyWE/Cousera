@@ -1,0 +1,3 @@
+[info] Step4_SecondaryPersistenceSpec:
+[info] - case1: Secondary should not acknowledge snapshots until persisted
+[info] - case2: Secondary should retry persistence in every 100 milliseconds

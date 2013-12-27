@@ -1,0 +1,16 @@
+[debug] Running Test kvstore.Step2_SecondarySpec : subclass(false, org.scalatest.Suite) with arguments 
+[debug] Running Test kvstore.Step1_PrimarySpec : subclass(false, org.scalatest.Suite) with arguments 
+[debug] Running Test kvstore.Step3_ReplicatorSpec : subclass(false, org.scalatest.Suite) with arguments 
+[debug] Running Test kvstore.Step6_NewSecondarySpec : subclass(false, org.scalatest.Suite) with arguments 
+[debug] Running Test kvstore.Step5_PrimaryPersistenceSpec : subclass(false, org.scalatest.Suite) with arguments 
+[debug] Running Test kvstore.Step4_SecondaryPersistenceSpec : subclass(false, org.scalatest.Suite) with arguments 
+[error] Failed: : Total 18, Failed 1, Errors 0, Passed 17, Skipped 0
+[debug] Passed tests:
+[debug] 	kvstore.Step3_ReplicatorSpec
+[debug] 	kvstore.Step1_PrimarySpec
+[debug] 	kvstore.Step5_PrimaryPersistenceSpec
+[debug] 	kvstore.Step4_SecondaryPersistenceSpec
+[debug] 	kvstore.Step2_SecondarySpec
+[error] Failed tests:
+[error] 	kvstore.Step6_NewSecondarySpec
+[error] (assignment/test:test) sbt.TestsFailedException: Tests unsuccessful

@@ -1,0 +1,5 @@
+[info] Step2_SecondarySpec:
+[info] - case1: Secondary (in isolation) should properly register itself to the provided Arbiter
+[info] - case2: Secondary (in isolation) must handle Snapshots
+[info] - case3: Secondary should drop and immediately ack snapshots with older sequence numbers
+[info] - case4: Secondary should drop snapshots with future sequence numbers

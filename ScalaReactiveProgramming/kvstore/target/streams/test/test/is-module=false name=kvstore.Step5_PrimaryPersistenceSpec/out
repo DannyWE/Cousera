@@ -1,0 +1,6 @@
+[info] Step5_PrimaryPersistenceSpec:
+[info] - case1: Primary does not acknowledge updates which have not been persisted
+[info] - case2: Primary retries persistence every 100 milliseconds
+[info] - case3: Primary generates failure after 1 second if persistence fails
+[info] - case4: Primary generates failure after 1 second if global acknowledgement fails
+[info] - case5: Primary acknowledges only after persistence and global acknowledgement

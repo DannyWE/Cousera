@@ -1,0 +1,16 @@
+[info] Step6_NewSecondarySpec:
+[info] - case1: Primary must start replication to new replicas *** FAILED ***
+[info]   java.lang.AssertionError: assertion failed: timeout (3 seconds) during expectMsg while waiting for OperationAck(0)
+[info]   at scala.Predef$.assert(Predef.scala:179)
+[info]   at akka.testkit.TestKitBase$class.expectMsg_internal(TestKit.scala:327)
+[info]   at akka.testkit.TestKitBase$class.expectMsg(TestKit.scala:314)
+[info]   at akka.testkit.TestKit.expectMsg(TestKit.scala:707)
+[info]   at kvstore.Tools$Session.waitAck(Tools.scala:44)
+[info]   at kvstore.Step6_NewSecondarySpec$$anonfun$1.apply$mcV$sp(Step6_NewSecondarySpec.scala:38)
+[info]   at kvstore.Step6_NewSecondarySpec$$anonfun$1.apply(Step6_NewSecondarySpec.scala:24)
+[info]   at kvstore.Step6_NewSecondarySpec$$anonfun$1.apply(Step6_NewSecondarySpec.scala:24)
+[info]   at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)
+[info]   at org.scalatest.Suite$class.withFixture(Suite.scala:1974)
+[info]   ...
+[info] - case2: Primary must stop replication to removed replicas and stop Replicator
+[info] - case3: Primary must stop replication to removed replicas and waive their outstanding acknowledgements

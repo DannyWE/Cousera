@@ -1,0 +1,3 @@
+[info] Step1_PrimarySpec:
+[info] - case1: Primary (in isolation) should properly register itself to the provided Arbiter
+[info] - case2: Primary (in isolation) should react properly to Insert, Remove, Get
